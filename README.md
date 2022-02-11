@@ -1,4 +1,4 @@
-# Hystory data console representation
+# Hystory data console representation script
 
 ## Run:
 - git clone ```https://github.com/Zaysevkun/test-task-history-data.git```
